@@ -1,0 +1,5 @@
+[09-Jul-2015 04:27:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''user_type'' (T_CONSTANT_ENCAPSED_STRING) in /home/ttms/public_html/beta/application/controllers/user.php on line 10
+[09-Jul-2015 04:27:50 America/Chicago] PHP Parse error:  syntax error, unexpected ''user_type'' (T_CONSTANT_ENCAPSED_STRING) in /home/ttms/public_html/beta/application/controllers/user.php on line 10
+[09-Jul-2015 04:27:52 America/Chicago] PHP Parse error:  syntax error, unexpected ''user_type'' (T_CONSTANT_ENCAPSED_STRING) in /home/ttms/public_html/beta/application/controllers/user.php on line 10
+[09-Jul-2015 04:27:54 America/Chicago] PHP Parse error:  syntax error, unexpected ''user_type'' (T_CONSTANT_ENCAPSED_STRING) in /home/ttms/public_html/beta/application/controllers/user.php on line 10
+[09-Jul-2015 04:28:22 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/ttms/public_html/beta/application/controllers/user.php on line 10
